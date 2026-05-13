@@ -22,6 +22,10 @@ Exemplary structure:
 │ └── db/
 ```
 
+Project structure:
+<img width="1048" height="601" alt="image" src="https://github.com/user-attachments/assets/a3196633-922c-4f9c-a9f9-1b78a01a9632" />
+
+
 
 Functional requirements:
 1. Vehicle Registry & Management
